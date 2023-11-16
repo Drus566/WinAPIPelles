@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings version="1.0">
-	<category name="win_console.c">
+	<category name="tmain_ex.c">
 		<category name="Window">
 			<property name="Left" type="integer">4294967287</property>
 			<property name="Top" type="integer">4294967258</property>
-			<property name="Right" type="integer">1464</property>
-			<property name="Bottom" type="integer">736</property>
+			<property name="Right" type="integer">1944</property>
+			<property name="Bottom" type="integer">1006</property>
 			<property name="Maximized" type="integer">1</property>
 			<property name="Active" type="integer">1</property>
 		</category>
