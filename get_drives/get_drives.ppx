@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings version="1.0">
-	<category name="winmain_ex.c">
+	<category name="get_drives.c">
 		<category name="Window">
 			<property name="Left" type="integer">4294967287</property>
 			<property name="Top" type="integer">4294967258</property>
